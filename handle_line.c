@@ -1,3 +1,4 @@
+#include "simple_shell.h"
 #include <stdio.h>
 /**
  * main - program main entry point
